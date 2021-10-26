@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px auto;
+}
+
+#Reyn {
+    display: none;
+}
+
+#button {
+    font-size: 20px;
+    padding: 1em 1.5em;
+    width: auto;
+    margin-top: 50px;
+}
